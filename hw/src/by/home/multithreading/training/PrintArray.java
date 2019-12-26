@@ -10,6 +10,5 @@ public class PrintArray {
 			}
 			System.out.print("|\n");
 		}
-		System.out.println("______________________________");
 	}
 }
